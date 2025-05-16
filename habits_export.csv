@@ -1,0 +1,11 @@
+id,habit,completed,date,weather,mood
+1,walk,1,2025-05-16,unknown,neutral
+2,meditate,1,2025-05-16,unknown,happy
+3,meditate,1,2025-05-16,unknown,happy
+4,meditate,1,2025-05-16,disabled,neutral
+5,walk,1,2025-05-16,broken clouds (9.12°C),happy
+6,test,1,2025-05-16,broken clouds (9.12°C),neutral
+7,meditate,1,2025-05-16,scattered clouds (9.13°C),happy
+8,meditate,1,2025-05-16,scattered clouds (9.13°C),happy
+9,Morning walk,1,2025-05-16,light rain (15.11°C),happy
+10,Morning walk,1,2025-05-16,light rain (15.11°C),happy
